@@ -57,55 +57,19 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 
 <br>
 
-# ✨ Specializations ✨
+<h2 align="center">✨ Specializations ✨</h2>
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
 <img src="https://img.shields.io/badge/AI%2FML-2b0a3d?style=for-the-badge&logo=openai&logoColor=ff69f5"/>
-<br>
-<sub><b>Intelligent Systems</b></sub>
-</td>
 
-<td align="center">
 <img src="https://img.shields.io/badge/Frontend-3a0f5c?style=for-the-badge&logo=html5&logoColor=ff9cf7"/>
-<br>
-<sub><b>Creative Interfaces</b></sub>
-</td>
 
-<td align="center">
 <img src="https://img.shields.io/badge/Web%20Development-001f3f?style=for-the-badge&logo=googlechrome&logoColor=00e5ff"/>
-<br>
-<sub><b>Modern Web Apps</b></sub>
-</td>
 
-</tr>
-
-<tr>
-
-<td align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-4a0d4f?style=for-the-badge&logo=buffer&logoColor=ff61f6"/>
-<br>
-<sub><b>Predictive Models</b></sub>
-</td>
 
-<td align="center">
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2d1155?style=for-the-badge&logo=dependabot&logoColor=c77dff"/>
-<br>
-<sub><b>AI Solutions</b></sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/UI%2FUX-002b36?style=for-the-badge&logo=figma&logoColor=00f5ff"/>
-<br>
-<sub><b>User Experience</b></sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
