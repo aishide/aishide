@@ -6,13 +6,15 @@
 Passionate Computer Science student focused on AI/ML, intelligent systems, and aesthetic digital experiences
 </h3>
 
-<br>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aishide&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50b7b0e0d.gif" width="100%">
 
 <br>
 
@@ -43,6 +45,8 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750551-7980e2c7-3e7c-4b9f-b0f6-6a4d88d3d7c0.gif" width="100%">
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -53,22 +57,61 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 
 <br>
 
-<h2 align="center">✨ Specializations ✨</h2>
+# ✨ Specializations ✨
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <img src="https://img.shields.io/badge/AI%2FML-2b0a3d?style=for-the-badge&logo=openai&logoColor=ff69f5"/>
+<br>
+<sub><b>Intelligent Systems</b></sub>
+</td>
 
+<td align="center">
 <img src="https://img.shields.io/badge/Frontend-3a0f5c?style=for-the-badge&logo=html5&logoColor=ff9cf7"/>
+<br>
+<sub><b>Creative Interfaces</b></sub>
+</td>
 
+<td align="center">
 <img src="https://img.shields.io/badge/Web%20Development-001f3f?style=for-the-badge&logo=googlechrome&logoColor=00e5ff"/>
+<br>
+<sub><b>Modern Web Apps</b></sub>
+</td>
 
+</tr>
+
+<tr>
+
+<td align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-4a0d4f?style=for-the-badge&logo=buffer&logoColor=ff61f6"/>
+<br>
+<sub><b>Predictive Models</b></sub>
+</td>
 
+<td align="center">
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2d1155?style=for-the-badge&logo=dependabot&logoColor=c77dff"/>
+<br>
+<sub><b>AI Solutions</b></sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/UI%2FUX-002b36?style=for-the-badge&logo=figma&logoColor=00f5ff"/>
+<br>
+<sub><b>User Experience</b></sub>
+</td>
+
+</tr>
+</table>
 
 </div>
+
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-bfcb7a6a-0f2d-45d4-8e6f-4a5f54f5d2f4.gif" width="100%">
 
 # 🚀 Featured Projects
 
@@ -82,6 +125,8 @@ Smart emergency response application with instant alerts, location sharing, and 
 AI-powered mental health support platform designed to provide emotional assistance and guidance for underprivileged children.
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750551-7980e2c7-3e7c-4b9f-b0f6-6a4d88d3d7c0.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -112,6 +157,8 @@ AI-powered mental health support platform designed to provide emotional assistan
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50b7b0e0d.gif" width="100%">
 
 # 📈 Contribution Graph
 
