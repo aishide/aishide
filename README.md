@@ -83,6 +83,19 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 ---
 
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aishide/aishide/output/pacman-contribution-graph-dark.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/aishide/aishide/output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
+
 # 📊 GitHub Analytics
 
 <div align="center">
