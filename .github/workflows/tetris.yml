@@ -1,0 +1,26 @@
+name: Generate Tetris Contribution Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Tetris Style Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_user_name: aishide
+          output_dir: tetris
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./tetris
+          publish_branch: output
