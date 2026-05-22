@@ -83,11 +83,18 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 ---
 
-## 🧱 Contribution Tetris Matrix
+## 👾 Pac-Man Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aishide/aishide/output/profile-night-view.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aishide/aishide/output/pacman-contribution-graph-dark.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/aishide/aishide/output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
 
 # 📊 GitHub Analytics
 
@@ -140,5 +147,6 @@ AI-powered mental health support platform designed to provide emotional assistan
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,100:00F5FF&height=140&section=footer"/>
+
 
 
