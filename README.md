@@ -6,15 +6,13 @@
 Passionate Computer Science student focused on AI/ML, intelligent systems, and aesthetic digital experiences
 </h3>
 
+<br>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aishide&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50b7b0e0d.gif" width="100%">
 
 <br>
 
@@ -45,8 +43,6 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750551-7980e2c7-3e7c-4b9f-b0f6-6a4d88d3d7c0.gif" width="100%">
-
 # 💻 Tech Stack
 
 <div align="center">
@@ -72,10 +68,7 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2d1155?style=for-the-badge&logo=dependabot&logoColor=c77dff"/>
 
 </div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bfcb7a6a-0f2d-45d4-8e6f-4a5f54f5d2f4.gif" width="100%">
 
 # 🚀 Featured Projects
 
@@ -89,8 +82,6 @@ Smart emergency response application with instant alerts, location sharing, and 
 AI-powered mental health support platform designed to provide emotional assistance and guidance for underprivileged children.
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212750551-7980e2c7-3e7c-4b9f-b0f6-6a4d88d3d7c0.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -122,8 +113,6 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50b7b0e0d.gif" width="100%">
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -136,10 +125,14 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 <div align="center">
 
-### ✨ Building intelligent solutions with creativity, code, and curiosity ✨
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+intelligent+solutions+with+creativity+and+code" />
+</h3>
 
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,100:00F5FF&height=140&section=footer"/>
+
+
