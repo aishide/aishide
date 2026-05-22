@@ -15,15 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Graph
+      - name: Generate Contribution Visualization
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           github_user_name: aishide
-          output_dir: tetris
-
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./tetris
-          publish_branch: output
