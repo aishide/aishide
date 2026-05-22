@@ -83,7 +83,7 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+## 🐍 Contribution Flow Engine
 
 <picture>
   <source
