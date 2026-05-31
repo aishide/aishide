@@ -134,6 +134,29 @@ AI-powered mental health support platform designed to provide emotional assistan
 
 </div>
 
+
+---
+
+---
+
+# 🐙 My Custom Octocat
+
+<div align="center">
+
+<img src="./assets/my-octocat.png" width="90%" alt="My Custom Octocat"/>
+
+### ✨ Meet My Digital Companion
+
+AI • ML • Development • Creativity
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Explorer-FF61F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative%20Developer-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Future%20ML%20Engineer-C77DFF?style=for-the-badge"/>
+
+</div>
+
 ---
 
 <div align="center">
