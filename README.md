@@ -16,7 +16,9 @@ Passionate Computer Science student focused on AI/ML, intelligent systems, and a
 
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ5b3B3dzA5dWV0dDV4ZnQ1NzI4Z3J3MzY1YzBpb2w2dGN5dnVrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
+
+
+<img align="right" alt="Coding" width="350" src="./assets/image.gif">
 
 ## 👩‍💻 About Me
 
